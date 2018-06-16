@@ -19,5 +19,5 @@ optional arguments:
 
 `python majestic.py 200 -t de`
 
-!(output-example)[https://i.imgur.com/UCy9lDq.png]
+!(output-example)[output.png]
 

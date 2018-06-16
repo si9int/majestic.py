@@ -19,5 +19,5 @@ optional arguments:
 
 `python majestic.py 200 -t de`
 
-!(output-example)[output.png]
+[[https://camo.githubusercontent.com/5e46145e7d7bb066400cdd3b39f7554ab196942f/68747470733a2f2f692e696d6775722e636f6d2f554379396c44712e706e67|alt=output]]
 

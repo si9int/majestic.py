@@ -17,7 +17,6 @@ optional arguments:
 
 **Example**
 
-`python majestic.py 200 -t de`
+Executing `python majestic.py 200 -t de` will output:
 
-[[https://camo.githubusercontent.com/5e46145e7d7bb066400cdd3b39f7554ab196942f/68747470733a2f2f692e696d6775722e636f6d2f554379396c44712e706e67|alt=output]]
-
+![output](https://user-images.githubusercontent.com/38978231/41494194-4b167252-7110-11e8-8a7a-453b07f71b6a.png)

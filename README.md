@@ -1,6 +1,10 @@
 # majestic.py
-Parsing the top n websites (rank and domain) from the majestic.com project. See more here: https://majestic.com/reports/majestic-million
-Installation: `pip -r requirements.txt`
+Parsing the top n websites (rank and domain) from the majestic.com project. 
+See more here: https://majestic.com/reports/majestic-million
+
+**Installation**
+
+`pip -r requirements.txt`
 
 **Usage**
 

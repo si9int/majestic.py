@@ -20,7 +20,8 @@ else:
 	args.tld = ''
 
 def getThem(tld, page):
-	html = requests.get('https://majestic.com/reports/majestic-million?majesticMillionType=2&tld=' + tld + '&oq=&s=' + str(page)).text
+	headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36'}
+	html = requests.get('https://majestic.com/reports/majestic-million?majesticMillionType=2&tld=' + tld + '&oq=&s=' + str(page),headers=headers).text
 
 	try:
 		soup = BeautifulSoup(html, 'lxml')
